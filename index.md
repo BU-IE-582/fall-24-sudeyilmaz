@@ -6,4 +6,4 @@
 
 * [Report](582_HW1/582_hw1_SudeYılmaz.html)
 
-* [Code](582_HW1/582_hw1.r)
+* [To Download Code File](582_HW1/582_hw1.r)
