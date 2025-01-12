@@ -14,3 +14,8 @@
 
 * [Code File](582_hw2/582_hw2.py)
   
+### Project
+
+* [Report](IE582_Project/582_report.html)
+
+* [Code File](IE582_Project/582_report.ipynb)
